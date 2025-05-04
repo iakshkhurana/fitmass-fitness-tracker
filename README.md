@@ -47,13 +47,6 @@ This project is built with:
 
 ---
 
-## 🙌 Contributers
-1. Aksh Khurana
-2. Mustansir Kanor Wala
-3. Arpit Agarwal
-
----
-
 **Stay fit with FitMass!**
 
 ---
